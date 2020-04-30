@@ -11,7 +11,7 @@
     "@material/elevation": "^0.43.0",
     "bootstrap": "^4.2.1",
     "dom-factory": "^1.0.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "material-design-icons-iconfont": "^4.0.2",
     "material-design-kit": "^1.0.1",
     "perfect-scrollbar": "^1.4.0",
