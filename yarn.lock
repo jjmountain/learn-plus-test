@@ -2529,11 +2529,6 @@ dns-txt@^2.0.2:
   dependencies:
     buffer-indexof "^1.0.0"
 
-dom-factory@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/dom-factory/-/dom-factory-1.0.0.tgz#4ddfb9b551d6c68149ba53f535ac0fc80a88720b"
-  integrity sha512-casgtVd9cHNOWfKc7At8HmvaybGpy6YEt8DQypBeRmlrrCHmaZ2texI8nYDgZPsNON1s6KS90oJwnSLkSTrZdg==
-
 dom-factory@^1.0.2, dom-factory@^1.0.2-beta.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/dom-factory/-/dom-factory-1.0.3.tgz#4e2cd75bee338b08126f8aa241a2c9d992677ab4"
@@ -3454,10 +3449,10 @@ hex-color-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/hex-color-regex/-/hex-color-regex-1.1.0.tgz#4c06fccb4602fe2602b3c93df82d7e7dbf1a8a8e"
   integrity sha512-l9sfDFsuqtOqKDsQdqrMRk0U85RZc0RtOR9yPI7mRVOa4FsR/BVnZ0shmQRM96Ji99kYZP/7hn1cedc1+ApsTQ==
 
-highlight.js@^9.13.1:
-  version "9.16.2"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.16.2.tgz#68368d039ffe1c6211bcc07e483daf95de3e403e"
-  integrity sha512-feMUrVLZvjy0oC7FVJQcSQRqbBq9kwqnYE4+Kj9ZjbHh3g+BisiPgF49NyQbVLNdrL/qqZr3Ca9yOKwgn2i/tw==
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+  integrity sha512-yR5lWvNz7c85OhVAEAeFhVCc/GV4C30Fjzc/rCP0aCWzc1UUOPUk55dK/qdwTZHBvMZo+eZ2jpk62ndX/xMFlg==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -4409,11 +4404,6 @@ material-design-icons-iconfont@^4.0.2:
   version "4.0.5"
   resolved "https://registry.yarnpkg.com/material-design-icons-iconfont/-/material-design-icons-iconfont-4.0.5.tgz#4107ba3b8a9d688a3d9325fc7363af51b17d3aee"
   integrity sha512-ByJJ1yz8+RfCx2uNiC5WjVCR7K3UWRb8ytWV3RMaoFRzQLNr/J5x7+Wg1+3OlIZahNXrId9Hu+BfXfQIo01v7g==
-
-material-design-kit@1.0.0-alpha.24:
-  version "1.0.0-alpha.24"
-  resolved "https://registry.yarnpkg.com/material-design-kit/-/material-design-kit-1.0.0-alpha.24.tgz#0e4557fb639972e5e2614c3a415e8ce779ae41ab"
-  integrity sha512-dyN676NT1pYK5WGl1aFSX9scEiTeT0OKYZPLBLXdltMcDHkjUVov8ufM1Rym46mCR5hXczvucvk5oQkqExXTNg==
 
 material-design-kit@^1.0.1:
   version "1.0.2"
@@ -7426,22 +7416,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-"ui-learnplus-bootstrap@git+ssh://git@gitlab.com:FrontendMatter/ui-learnplus-bootstrap#v2.1.0":
-  version "2.1.0"
-  resolved "git+ssh://git@gitlab.com:FrontendMatter/ui-learnplus-bootstrap#0468fbd508afd478457781b7ac34d547c53013ae"
-  dependencies:
-    "@fortawesome/fontawesome-free" "^5.5.0"
-    bootstrap "^4.2.1"
-    dom-factory "1.0.0"
-    jquery "^3.3.1"
-    material-design-icons-iconfont "^4.0.2"
-    material-design-kit "1.0.0-alpha.24"
-    perfect-scrollbar "^1.4.0"
-    popper.js "^1.14.4"
-    sass-md-colors "^1.0.0"
-    sidebar-style-guide "^2.0.0"
-    spinkit "^1.2.5"
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
