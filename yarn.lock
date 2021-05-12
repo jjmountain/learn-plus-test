@@ -1726,9 +1726,9 @@ chalk@^1.1.1:
     supports-color "^2.0.0"
 
 chart.js@^2.7.3:
-  version "2.9.3"
-  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-2.9.3.tgz#ae3884114dafd381bc600f5b35a189138aac1ef7"
-  integrity sha512-+2jlOobSk52c1VU6fzkh3UwqHMdSlgH1xFv9FKMqHiNCpXsGPQa/+81AFa+i3jZ253Mq9aAycPwDjnn1XbRNNw==
+  version "2.9.4"
+  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-2.9.4.tgz#0827f9563faffb2dc5c06562f8eb10337d5b9684"
+  integrity sha512-B07aAzxcrikjAPyV+01j7BmOpxtQETxTSlQ26BEYJ+3iUkbNKaOJ/nDbT6JjyqYxseM0ON12COHYdU2cTIjC7A==
   dependencies:
     chartjs-color "^2.1.0"
     moment "^2.10.2"
@@ -2528,11 +2528,6 @@ dns-txt@^2.0.2:
   integrity sha1-uR2Ab10nGI5Ks+fRB9iBocxGQrY=
   dependencies:
     buffer-indexof "^1.0.0"
-
-dom-factory@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/dom-factory/-/dom-factory-1.0.0.tgz#4ddfb9b551d6c68149ba53f535ac0fc80a88720b"
-  integrity sha512-casgtVd9cHNOWfKc7At8HmvaybGpy6YEt8DQypBeRmlrrCHmaZ2texI8nYDgZPsNON1s6KS90oJwnSLkSTrZdg==
 
 dom-factory@^1.0.2, dom-factory@^1.0.2-beta.3:
   version "1.0.3"
@@ -4410,11 +4405,6 @@ material-design-icons-iconfont@^4.0.2:
   resolved "https://registry.yarnpkg.com/material-design-icons-iconfont/-/material-design-icons-iconfont-4.0.5.tgz#4107ba3b8a9d688a3d9325fc7363af51b17d3aee"
   integrity sha512-ByJJ1yz8+RfCx2uNiC5WjVCR7K3UWRb8ytWV3RMaoFRzQLNr/J5x7+Wg1+3OlIZahNXrId9Hu+BfXfQIo01v7g==
 
-material-design-kit@1.0.0-alpha.24:
-  version "1.0.0-alpha.24"
-  resolved "https://registry.yarnpkg.com/material-design-kit/-/material-design-kit-1.0.0-alpha.24.tgz#0e4557fb639972e5e2614c3a415e8ce779ae41ab"
-  integrity sha512-dyN676NT1pYK5WGl1aFSX9scEiTeT0OKYZPLBLXdltMcDHkjUVov8ufM1Rym46mCR5hXczvucvk5oQkqExXTNg==
-
 material-design-kit@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/material-design-kit/-/material-design-kit-1.0.2.tgz#20abe4fca0a3cf2dfe3a7683de87b903bf8c36c8"
@@ -4675,9 +4665,9 @@ moment-timezone@^0.5.21:
     moment ">= 2.9.0"
 
 "moment@>= 2.9.0", moment@>=2.5.0, moment@^2.10.2, moment@^2.22.2:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.1.tgz#b2be769fa31940be9eeea6469c075e35006fa3d3"
+  integrity sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
@@ -7426,22 +7416,6 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
-
-"ui-learnplus-bootstrap@git+ssh://git@gitlab.com:FrontendMatter/ui-learnplus-bootstrap#v2.1.0":
-  version "2.1.0"
-  resolved "git+ssh://git@gitlab.com:FrontendMatter/ui-learnplus-bootstrap#0468fbd508afd478457781b7ac34d547c53013ae"
-  dependencies:
-    "@fortawesome/fontawesome-free" "^5.5.0"
-    bootstrap "^4.2.1"
-    dom-factory "1.0.0"
-    jquery "^3.3.1"
-    material-design-icons-iconfont "^4.0.2"
-    material-design-kit "1.0.0-alpha.24"
-    perfect-scrollbar "^1.4.0"
-    popper.js "^1.14.4"
-    sass-md-colors "^1.0.0"
-    sidebar-style-guide "^2.0.0"
-    spinkit "^1.2.5"
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"
